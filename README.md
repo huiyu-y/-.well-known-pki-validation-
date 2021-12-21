@@ -1,1 +1,1 @@
-# -.well-known-pki-validation-
+# .well-known-pki-validation
